@@ -19,4 +19,4 @@
 
 *[“Russia”, “Denmark”, “Kazan”] → []*
 
-![Alt text](249580144-fc74f9e7-4723-4470-95ee-a42c5a6b8943.jpg)
+![BlockSheme](249580144-fc74f9e7-4723-4470-95ee-a42c5a6b8943.jpg)
